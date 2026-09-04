@@ -9,7 +9,7 @@ spring:
     password: ******
     url: jdbc:mysql://localhost:3306/aiAgent
 #  datasource:
-#    url: jdbc:postgresql://rm-cn-3h34idz7v00076co.rwlb.rds.aliyuncs.com:5432/ai_agent
+#    url: url
 #    username: my_user
 #    password: *******
   ai:

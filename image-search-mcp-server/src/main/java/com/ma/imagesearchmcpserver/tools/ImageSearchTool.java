@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class ImageSearchTool {
-    private  final String API_KEY = "ZXeU5JI1KjZ17AHsZtxomPjogolx8N3xUXJv0S0E86AEPkE9GBNQAPbQ"; // 替换为你的API密钥
+    private  final String API_KEY = "your-api-key"; // 替换为你的API密钥
     private  final String BASE_URL = "https://api.pexels.com/v1/search";
     @Tool
     public String searchImage(String query){
